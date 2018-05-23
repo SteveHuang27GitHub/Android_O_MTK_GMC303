@@ -15,7 +15,7 @@ I2C Connections
 
 File Location
 -----------
-- put gmc303 to path alps/kernel-4.4/drivers/misc/mediatek/sensors-1.0/gmc303 
+- put gmc303 to path alps/kernel-4.4/drivers/misc/mediatek/sensors-1.0/magnetometer/gmc303 
 - put libsensor to path alps/vendor/mediatek/proprietary/hardware/libsensor
 
 Kernel Build
