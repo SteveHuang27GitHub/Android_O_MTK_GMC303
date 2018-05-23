@@ -18,7 +18,7 @@ File Location
 - put gmc303 to path alps/kernel-4.4/drivers/misc/mediatek/sensors-1.0/magnetometer/gmc303 
 - put libsensor to path alps/vendor/mediatek/proprietary/hardware/libsensor
 
-Kernel Build
+Kernel and HAL Build
 -----------
 - source ./build/envsetup.sh
 - lunch full_k57pv1_pre-eng
